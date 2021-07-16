@@ -1,20 +1,14 @@
 
-
-
-<br />
-
-
   <h3 align="center">NEO Explorer </h3>
 
-  <p align="center">
+   <p align="center">
      Near earth object explorer NASA client by Preeti for Data4life
     <br />
-      </p>
-</p>
+   </p>
 
 
 
-<!-- TABLE OF CONTENTS -->
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -28,13 +22,10 @@
 </details>
 
 
+## About NEO Explorer
 
-
-## About NEO Exlorer
-
-
-This is a client application which helps download near [earth objects 
-data](https://en.wikipedia.org/wiki/Near-Earth_object) from nasa and post it to webserver accepting near earth object
+This is a client application which helps download near earth objects 
+data from NASA and post it to webserver accepting near earth object
 data.
 
 ### Techstack 
@@ -50,7 +41,7 @@ I have used mentioned stack
 * [Python 3.8.2](https://www.python.org/downloads/release/python-382/) As Programming language for web server and client
 
 ## System architecture
-![plot](system architecture client.jpg)
+![plot](system_architecture_client.jpg)
 
 
 ## Getting Started 
