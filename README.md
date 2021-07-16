@@ -22,7 +22,7 @@
 </details>
 
 
-## About NEO Explorer
+## About
 
 This is a client application which helps download near earth objects 
 data from NASA and post it to webserver accepting near earth object
@@ -71,7 +71,7 @@ environment variable.
    python main.py
    ```
 
-## Testing the app
+## Testing
 A wise engineer once said that `Something that is untested is broken.`
 Well not always but most often.
 
